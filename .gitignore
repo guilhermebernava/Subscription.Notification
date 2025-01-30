@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Subscription.Notification/obj
+/Subscription.Notification/appsettings.json
+*.user
