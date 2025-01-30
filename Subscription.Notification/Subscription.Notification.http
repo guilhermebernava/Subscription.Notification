@@ -1,0 +1,6 @@
+@Subscription.Notification_HostAddress = http://localhost:5062
+
+GET {{Subscription.Notification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
