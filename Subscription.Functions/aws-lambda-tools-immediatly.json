@@ -1,0 +1,11 @@
+{
+  "profile": "Subscription",
+  "region": "sa-east-1",
+  "configuration": "Release",
+  "function-runtime": "dotnet8",
+  "function-name": "ImmediatlyFunction",
+  "function-handler": "Subscription.Functions::Subscription.Functions.Immediatly.ImmediatlyFunction::FunctionHandler",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-description": "Lambda para processar eventos instantâneos"
+}
